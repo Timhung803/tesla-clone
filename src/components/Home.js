@@ -42,7 +42,7 @@ function Home() {
         />
         <Section 
             title="Solar for New Roofs"
-            description="Solar Roof Cots Less Than a New Roofs"
+            description="Solar Roof Costs Less Than a New Roofs"
             backgroundImg="solar-roof.jpg"
             leftBtnText="Order now"
             rightBtnText="Learn more"
